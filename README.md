@@ -14,6 +14,8 @@ Raising Great Minds for a Resilient Techno-verse
 4. To mentor young entrepreneurs into achieving their wildest ambition for their startup with our link to major successful entreprenuers. 
 5. The business landscape is not kind to next-generation start-ups, we want to lend hope to them, instill courage and determination in them to get back at their feet, and take a go at their aspirations regardless. 
 
+## Rules
 
+Kindly create a branch for your contribution, once it is checked, it will be merged. Kindly Pull before pushing to avoid conflict
 
-[Demo Link] (http://preview.themeforest.net/item/rency-conference-landing-page/full_screen_preview/35155038?_ga=2.202152849.1478674559.1642520289-1333660067.1641745118])
+[Demo Link](http://preview.themeforest.net/item/rency-conference-landing-page/full_screen_preview/35155038?_ga=2.202152849.1478674559.1642520289-1333660067.1641745118])
